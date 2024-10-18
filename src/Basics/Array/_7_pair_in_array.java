@@ -22,5 +22,6 @@ public class _7_pair_in_array {
 //        }
         printpair(arr);
 
+
     }
 }
