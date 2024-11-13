@@ -39,5 +39,6 @@ public class _1_Classes_and_Object {
         Employee e1 = new Employee();
             e1.get_data();
             e1.Display_data();
+
     }
 }
