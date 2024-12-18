@@ -6,10 +6,7 @@ class SbiBank{
     Scanner sc = new Scanner(System.in);
     public String username;
     private String password;
-    System.out.println("")
-
-
-
+//    System.out.println("");
 
 }
 public class _2_Access_modifiers {
