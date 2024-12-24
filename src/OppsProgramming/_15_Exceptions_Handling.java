@@ -13,7 +13,7 @@ public class _15_Exceptions_Handling {
 
         /* there is another method to resolve the exception handling using hte try and catch block ==>
 
-         instead of writing the throws FileNotFoundException after the main method(public static void main(String[] args) so we are writing the thorws method here we use the :
+         instead of writing the throws FileNotFoundException after the main method(public static void main(String[] args) so we are writing the throws method here we use the :
 
         try{
         FileReader fr = new FileReader(file);
